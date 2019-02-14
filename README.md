@@ -1,5 +1,5 @@
 # AccountKit-2FA-Auth-Android
-This is a demo project showing the implementation of Facebook Account KIT API for 2 factor password-less login on android with SMS token generation and Email Authorization
+This is a sample project showing the implementation of Facebook Account KIT API for 2 factor password-less login on android with SMS token generation and Email Authorization
 
 ## Prerequisites 
 * Login to facebook with a developers account https://developers.facebook.com/
